@@ -1,3 +1,10 @@
 tmp/toto.txt
+<<<<<<< HEAD
 tmp/*
 *.xml
+=======
+
+tmp/*
+
+*.txt
+>>>>>>> 974f4623da23f0b3deb4df6f8ac5d10f3a2c342b
